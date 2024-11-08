@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "src",
     "paths": {
-      "@features": ["features/*"]
+      "@features/*": ["features/*"]
     }
   },
   "include": ["src"]
